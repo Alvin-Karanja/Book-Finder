@@ -45,7 +45,6 @@ Contact KYTABU for support in running this program.
 * HTML
 * CSS
 * Bootstrap
-* Font Awesome
 * jQuery
 * JavaScript
 * JSON
